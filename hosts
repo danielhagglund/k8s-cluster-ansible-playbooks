@@ -1,0 +1,8 @@
+[controllers]
+k8s-controller.local
+
+[nodes]
+k8s-node-1.local
+k8s-node-2.local
+k8s-node-3.local
+
